@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "People & Pay",
+    "slug": "people-and-pay",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f3f5f1"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f3f5f1"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
